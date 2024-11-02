@@ -1,8 +1,9 @@
-## Gabi Rivera
+# Welcome to My GitHub Profile! 🌟
 
-**About Me**
+I’m **Gabi Rivera**, an M.Sc. graduate in **Applied Data Science** from the USD Shirley Marcos School of Engineering. Currently, I work as an **Analytical Method Development Scientist**, where I leverage data analytics to drive insights and develope assays that characterize the potency of clinical drug performance.
 
-Welcome to My GitHub Profile! I’m an M.Sc. graduate in **Applied Data Science** from the USD Shirley Marcos School of Engineering. I’m passionate about leveraging data to drive insights and create impactful solutions. My academic background and hands-on experience have equipped me with a solid foundation in machine learning, data visualization, and statistical analysis.
+I’m passionate about utilizing data to make a real impact. My academic background, combined with hands-on experience, has provided me with a robust foundation in **machine learning**, **data visualization**, and **statistical analysis**. 
+
 
 ## This Page
 
@@ -10,6 +11,29 @@ I enjoy working on projects that challenge my analytical skills and allow me to 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riverag0011&show_icons=true&hide_title=true)
 
+## Skills 🌟
+
+- **Languages:** 
+  - Python 🐍
+  - R 📈
+  - SQL 💻
+
+- **Data Science Platforms:** 
+  - AWS SageMaker ☁️🚀
+  - Tableau 📊
+  - MySQL Workbench 🛠️
+  - RStudio 🖥️
+  - Google Colab ☁️
+  - Jupyter Notebook 📓
+  - VS Code 💼
+
+- **Biotech Platforms:** 
+  - JMP 📊
+  - SoftMax Pro 🔬
+  - FlowJo 🧬
+  - Prism 📉
+  - CellCognition 🔍
+  - SnapGene 🧬📁
 
 ## Let’s Connect!
 
@@ -19,4 +43,5 @@ Contact Information:
 
 - **Email:** [riverag0011@gmail.com](mailto:riverag0011@gmail.com)
 - **Phone:** (619) 538-7936
+- **LinkedIn:** Ask
 
