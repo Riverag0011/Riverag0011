@@ -1,8 +1,8 @@
 ## Gabi Rivera
 
-*About Me*
+**About Me**
 
-Welcome to My GitHub Profile! I’m **Gabi Rivera**, an M.Sc. graduate in **Applied Data Science** from the **USD Shirley Marcos School of Engineering**. I’m passionate about leveraging data to drive insights and create impactful solutions. My academic background and hands-on experience have equipped me with a solid foundation in machine learning, data visualization, and statistical analysis.
+Welcome to My GitHub Profile! I’m an M.Sc. graduate in **Applied Data Science** from the **USD Shirley Marcos School of Engineering**. I’m passionate about leveraging data to drive insights and create impactful solutions. My academic background and hands-on experience have equipped me with a solid foundation in machine learning, data visualization, and statistical analysis.
 
 ## This Page
 
