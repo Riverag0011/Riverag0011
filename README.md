@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I’m **Gabi Rivera**, an M.Sc. graduate in **Applied Data Science** from the USD Shirley Marcos School of Engineering. Currently, I work as an **Analytical Method Development Scientist**, where I leverage data analytics to drive insights and develope assays that characterize the potency of clinical drug.
+I’m **Gabi Rivera**, an M.Sc. graduate in **Applied Data Science** from the USD Shirley Marcos School of Engineering. Currently, I work as an **Analytical Method Development Scientist**, where I leverage data analytics to drive insights and develope assays that characterize relative potencies of clinical drugs.
 
 I’m passionate about utilizing data to make a real impact. My academic background, combined with hands-on experience, has provided me with a robust foundation in **machine learning**, **data visualization**, and **statistical analysis**. 
 
