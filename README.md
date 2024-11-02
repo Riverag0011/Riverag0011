@@ -14,26 +14,26 @@ I enjoy working on projects that challenge my analytical skills and allow me to 
 ## Skills 🌟
 
 - **Languages:** 
-  - Python 🐍
-  - R 📈
-  - SQL 💻
+  - Python 
+  - R 
+  - SQL 
 
 - **Data Science Platforms:** 
-  - AWS SageMaker ☁️🚀
-  - Tableau 📊
-  - MySQL Workbench 🛠️
-  - RStudio 🖥️
+  - AWS SageMaker ☁️
+  - Tableau 
+  - MySQL Workbench 
+  - RStudio 
   - Google Colab ☁️
-  - Jupyter Notebook 📓
-  - VS Code 💼
+  - Jupyter Notebook 
+  - VS Code 
 
 - **Biotech Platforms:** 
-  - JMP 📊
-  - SoftMax Pro 🔬
-  - FlowJo 🧬
-  - GraphPad Prism 📉
-  - CellCognition 🔍
-  - SnapGene 🧬📁
+  - JMP 
+  - SoftMax Pro 
+  - FlowJo 
+  - GraphPad Prism 
+  - CellCognition 
+  - SnapGene
 
 ## Let’s Connect!
 
