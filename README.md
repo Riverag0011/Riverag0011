@@ -10,6 +10,8 @@ I’m passionate about utilizing data to make a real impact. My academic backgro
 I enjoy working on projects that challenge my analytical skills and allow me to explore innovative technologies. Here, you’ll find my contributions to various data science projects, coding exercises, and collaborative efforts.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riverag0011&show_icons=true&hide_title=true)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverag0011&layout=compact&show_icons=true)
+
 
 ## Skills 🌟
 
