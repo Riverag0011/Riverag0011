@@ -31,7 +31,7 @@ I enjoy working on projects that challenge my analytical skills and allow me to 
   - JMP 📊
   - SoftMax Pro 🔬
   - FlowJo 🧬
-  - Prism 📉
+  - GraphPad Prism 📉
   - CellCognition 🔍
   - SnapGene 🧬📁
 
